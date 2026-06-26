@@ -5,6 +5,7 @@ This repository contains Python solutions and notes for LeetCode practice proble
 ## Repository Structure
 
 - `01_sum_problem.py` - Example problem solution, likely solving a sum-related challenge.
+- `02_add_two_numbers.py` - Solution for a linked list addition problem, following standard LeetCode "Add Two Numbers" logic.
 - `Readme.md` - Project overview and notes on the problem-solving approach.
 
 ## Purpose
