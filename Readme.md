@@ -7,6 +7,7 @@ This repository contains Python solutions and notes for LeetCode practice proble
 - `01_sum_problem.py` - Example problem solution, likely solving a sum-related challenge.
 - `02_add_two_numbers.py` - Solution for a linked list addition problem, following standard LeetCode "Add Two Numbers" logic.
 - `03_longest_string_without_repeatiation.py` - Solution for finding the longest substring without repeating characters.
+- `04_median_two_sortedarrays.py` - Solution for finding the median of two sorted arrays.
 - `Readme.md` - Project overview and notes on the problem-solving approach.
 
 ## Purpose
