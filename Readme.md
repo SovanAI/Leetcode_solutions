@@ -8,6 +8,7 @@ This repository contains Python solutions and notes for LeetCode practice proble
 - `02_add_two_numbers.py` - Solution for a linked list addition problem, following standard LeetCode "Add Two Numbers" logic.
 - `03_longest_string_without_repeatiation.py` - Solution for finding the longest substring without repeating characters.
 - `04_median_two_sortedarrays.py` - Solution for finding the median of two sorted arrays.
+- `05_longest_palindromic_string.py` - Solution for finding the longest palindromic substring.
 - `Readme.md` - Project overview and notes on the problem-solving approach.
 
 ## Purpose
