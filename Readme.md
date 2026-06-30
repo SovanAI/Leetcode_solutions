@@ -1,63 +1,51 @@
-# LeetCode Problem Solving Log
+# LeetCode Problem Solutions
 
-This repository contains Python solutions and notes for LeetCode practice problems. It is intended as a simple log of coding problem solving, algorithm design, and implementation exercises.
+Collection of short Python solutions used for practicing LeetCode problems and tracking progress.
 
 ## Repository Structure
 
-- `01_sum_problem.py` - Example problem solution, likely solving a sum-related challenge.
-- `02_add_two_numbers.py` - Solution for a linked list addition problem, following standard LeetCode "Add Two Numbers" logic.
-- `03_longest_string_without_repeatiation.py` - Solution for finding the longest substring without repeating characters.
-- `04_median_two_sortedarrays.py` - Solution for finding the median of two sorted arrays.
-- `05_longest_palindromic_string.py` - Solution for finding the longest palindromic substring.
-- `Readme.md` - Project overview and notes on the problem-solving approach.
+- `01_sum_problem.py` - Example: sum / pair problem.
+- `02_add_two_numbers.py` - "Add Two Numbers" (linked-list addition).
+- `03_longest_string_without_repeatiation.py` - Longest substring without repeating characters (filename contains a typo: "repeatiation").
+- `04_median_two_sortedarrays.py` - Median of two sorted arrays.
+- `05_longest_palindromic_string.py` - Longest palindromic substring.
+- `07_reversed_integer.py` - Reversed integer problem (handle overflows and sign).
+- `Readme.md` - Project overview and usage notes.
 
 ## Purpose
 
-The goal of this repository is to:
+- Track progress solving algorithmic problems.
+- Record approaches, edge cases, and implementation details.
+- Practice Python, data structures, and algorithm design.
 
-- Track progress solving LeetCode-style problems.
-- Record the problem logic, algorithm ideas, and implementation details.
-- Practice Python coding, data structures, and algorithm design.
+## How I Work Through Problems
 
-## Problem Solving Approach
+1. Read and understand the problem statement and constraints.
+2. Identify input/output formats and edge cases.
+3. Choose an algorithm (e.g., brute force, two pointers, hash map, recursion, dynamic programming).
+4. Implement a clean Python solution and add brief notes.
+5. Test with representative and edge-case inputs.
 
-For each LeetCode problem, the typical workflow is:
+## Running an Example
 
-1. Read and understand the problem requirements.
-2. Identify the input and output format.
-3. Choose an algorithm strategy:
-   - brute force
-   - sorting
-   - two pointers
-   - hash map / dictionary
-   - recursion / DFS / BFS
-   - dynamic programming
-4. Write a Python solution based on the chosen approach.
-5. Test with sample inputs and edge cases.
-6. Refine the code for readability and performance.
+Run a single problem file with Python (Python 3.8+ recommended):
 
-## Example Solution Notes
+```powershell
+python 01_sum_problem.py
+python 07_reversed_integer.py
+```
 
-For a sum-related problem, the logic often includes:
+Replace the filename with the problem you want to run.
 
-- scanning the input list
-- using a hash map to find complement values
-- returning the correct pair or total
-- handling edge cases such as empty input or no valid solution
+## Contributing / Adding Problems
 
-## How to Use
-
-1. Open the `.py` file for the problem you want to review.
-2. Read the code and comments to understand the solution logic.
-3. Run the file in a Python environment to verify the output.
-4. Add new Python files for additional LeetCode problems.
-
-## Contribution
-
-- Add a new file for each new problem solved.
-- Include comments explaining the approach and edge case handling.
-- Add example inputs and outputs when possible.
+- Add a new `NN_description.py` file for each problem (use two-digit prefixes to keep ordering).
+- Include a short comment at the top explaining the approach and any important edge cases.
 
 ## Notes
 
-This repository is designed as a personal learning log for improving problem solving and Python coding skills through consistent LeetCode practice.
+- Filenames should be kept consistent; consider renaming `03_longest_string_without_repeatiation.py` to fix the typo if desired.
+- This is a personal learning repository; feel free to expand with test cases or additional explanations.
+
+---
+If you'd like, I can: update the typo in `03_longest_string_without_repeatiation.py`, add example test cases, or create a small test runner script to execute all problems. Which would you prefer?
