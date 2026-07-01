@@ -11,6 +11,7 @@ Collection of short Python solutions used for practicing LeetCode problems and t
 - `05_longest_palindromic_string.py` - Longest palindromic substring.
 - `07_reversed_integer.py` - Reversed integer problem (handle overflows and sign).
 - `08_String_to_integer.py` - String to integer conversion problem.
+- `09_palindrom_number.py` - Palindrome number problem.
 - `Readme.md` - Project overview and usage notes.
 
 ## Purpose
