@@ -10,6 +10,7 @@ Collection of short Python solutions used for practicing LeetCode problems and t
 - `04_median_two_sortedarrays.py` - Median of two sorted arrays.
 - `05_longest_palindromic_string.py` - Longest palindromic substring.
 - `07_reversed_integer.py` - Reversed integer problem (handle overflows and sign).
+- `08_String_to_integer.py` - String to integer conversion problem.
 - `Readme.md` - Project overview and usage notes.
 
 ## Purpose
