@@ -13,6 +13,8 @@ A personal collection of Python solutions for practicing common LeetCode algorit
 - `08_String_to_integer.py` - Convert a string to an integer (atoi-like behavior).
 - `09_palindrom_number.py` - Check whether an integer is a palindrome.
 - `11_Container_eith_most_water.py` - Container With Most Water using two pointers.
+- `13_Roman_to_integer.py` - Convert Roman numerals to integers.
+- `14_longest_common_prefix.py` - Find the longest common prefix among strings.
 - `Readme.md` - Project overview and usage notes.
 
 ## Purpose
