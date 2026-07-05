@@ -15,6 +15,7 @@ A personal collection of Python solutions for practicing common LeetCode algorit
 - `11_Container_eith_most_water.py` - Container With Most Water using two pointers.
 - `13_Roman_to_integer.py` - Convert Roman numerals to integers.
 - `14_longest_common_prefix.py` - Find the longest common prefix among strings.
+- `15_3_Sum.py` - Find all unique triplets in an array that sum to zero.
 - `Readme.md` - Project overview and usage notes.
 
 ## Purpose
@@ -48,5 +49,6 @@ Replace the filename with the desired problem script.
 
 ## Notes
 
-- The filename `03_longest_string_without_repeatiation.py` contains a typo and can be renamed for consistency.
+- The filename `03_longest_string_without_repeatiation.py` contains a typo ("repeatiation" should be "repetition") and can be renamed for consistency.
+- The filename `11_Container_eith_most_water.py` contains a typo ("eith" should be "with") and can be renamed for consistency.
 - You can add a shared runner script later to execute multiple problems from one command.
