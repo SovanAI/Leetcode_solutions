@@ -13,6 +13,7 @@ This repository contains a collection of Python solutions for selected LeetCode 
 - 07_reversed_integer.py - Reverse Integer with overflow handling.
 - 08_String_to_integer.py - String to Integer (atoi-style parsing).
 - 09_palindrom_number.py - Palindrome Number check.
+- 10_regular_expression_matching.py - Regular Expression Matching problem.
 - 11_Container_eith_most_water.py - Container With Most Water solution.
 - 13_Roman_to_integer.py - Roman to Integer conversion.
 - 14_longest_common_prefix.py - Longest Common Prefix problem.
